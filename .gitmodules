@@ -1,0 +1,4 @@
+[submodule "client_apis/vfl_java"]
+	path = client_apis/vfl_java
+	url = https://github.com/kuchuk-borom-debbarma/vfl_java
+	branch = main
