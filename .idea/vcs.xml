@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/client_apis/vfl_java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/server/vfl_server_java" vcs="Git" />
   </component>
 </project>
