@@ -2,3 +2,6 @@
 	path = client_apis/vfl_java
 	url = https://github.com/kuchuk-borom-debbarma/vfl_java
 	branch = main
+[submodule "server/vfl_server_java"]
+	path = server/vfl_server_java
+	url = https://github.com/kuchuk-borom-debbarma/vfl_server_java
